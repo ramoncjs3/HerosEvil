@@ -7,3 +7,5 @@
 # Example：
 `HerosEvil.exe server`
 `HerosEvil.exe run -u test -p 123456 -s h6`
+
+![图1](https://github.com/ramoncjs3/HerosEvil/blob/main/1.jpg)
