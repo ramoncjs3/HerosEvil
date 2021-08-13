@@ -10,3 +10,6 @@
 `HerosEvil.exe run -u test -p 123456 -s h6`
 
 ![图1](https://github.com/ramoncjs3/HerosEvil/blob/main/1.jpg)
+
+# 下载地址:
+https://github.com/ramoncjs3/HerosEvil/releases/tag/0.1
